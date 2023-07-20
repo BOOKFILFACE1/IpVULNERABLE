@@ -16,7 +16,7 @@ Nuestra herramienta intenta verificar si los servicios y sus versiones son vulne
 Cómo Usar la Herramienta :
 1)-Clona este repositorio en tu máquina local.
 2)-Asegúrate de tener instalada la biblioteca python-nmap ejecutando pip install python-nmap.
-3)-Ejecuta el script vulnerability_analysis.py desde la línea de comandos.
+3)-Ejecuta el script VulnerarIP.py desde la línea de comandos.
 4)-Ingresa la dirección IP que deseas analizar.
 
 ¡Obtén un análisis detallado y descubre posibles vulnerabilidades!
